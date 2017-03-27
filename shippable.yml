@@ -21,7 +21,7 @@ node_js:
 
 services:
   
- # - elasticsearc
+  - elasticsearch
   - sqlite 
 
 
