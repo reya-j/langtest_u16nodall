@@ -19,7 +19,21 @@ node_js:
   - iojs-2.0.0
   - iojs-3.3.1
 
-
+services:
+  - cassandra 
+  #- elasticsearch 
+  - memcached 
+  - mongodb 
+  - mysql 
+  - neo4j 
+  - postgres 
+  - rabbitmq 
+  - redis 
+  - selenium
+  - sqllite 
+  - couchdb 
+  - rethinkdb 
+  - riak 
 
 
 
