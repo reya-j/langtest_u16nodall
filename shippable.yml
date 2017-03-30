@@ -19,12 +19,6 @@ node_js:
   - iojs-2.0.0
   - iojs-3.3.1
 
-services:
-  
-  - elasticsearch
-  - sqlite 
-
-
 
 
 
